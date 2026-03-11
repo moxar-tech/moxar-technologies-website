@@ -55,10 +55,10 @@ export default function Contact() {
             viewport={{ once: true }}
           >
             <h3 className="text-2xl font-semibold text-[#003049] mb-6">
-              Let's Discuss Your Project
+              Let&apos;s Discuss Your Project
             </h3>
             <p className="text-gray-600 mb-8">
-              Whether you need software development, network solutions, or creative design, we're here to help. Reach out and let's create something amazing together.
+              Whether you need software development, network solutions, or creative design, we&apos;re here to help. Reach out and let&apos;s create something amazing together.
             </p>
 
             {/* Contact Info Cards */}
