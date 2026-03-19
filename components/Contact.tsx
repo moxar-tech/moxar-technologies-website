@@ -64,10 +64,10 @@ export default function Contact() {
             {/* Contact Info Cards */}
             <div className="space-y-4 mb-8">
               {[
-                { icon: Mail, title: 'Email', value: 'info@moxartech.com', link: 'mailto:info@moxartech.com' },
-                { icon: Phone, title: 'Phone', value: '+1 (555) 123-4567', link: 'tel:+15551234567' },
-                { icon: MapPin, title: 'Location', value: 'San Francisco, CA', link: '#' },
-                { icon: Clock, title: 'Business Hours', value: 'Mon-Fri: 9AM - 6PM', link: '#' },
+                { icon: Mail, title: 'Email', value: 'info@moxar.net', link: 'mailto:info@moxar.net' },
+                { icon: Phone, title: 'Phone', value: '0700 232 962', link: 'tel:0700232962' },
+                { icon: MapPin, title: 'Location', value: 'Hoima city, Uganda', link: '#' },
+                { icon: Clock, title: 'Business Hours', value: '24/7', link: '#' },
               ].map((item, index) => (
                 <motion.div
                   key={index}

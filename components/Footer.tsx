@@ -87,20 +87,20 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-3">
                 <Mail size={18} className="text-[#F97316] flex-shrink-0 mt-1" />
-                <a href="mailto:info@moxartech.com" className="text-gray-600 hover:text-[#003049]">
-                  info@moxartech.com
+                <a href="mailto:info@moxar.net" className="text-gray-600 hover:text-[#003049]">
+                  info@moxar.net
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <Phone size={18} className="text-[#F97316] flex-shrink-0 mt-1" />
-                <a href="tel:+15551234567" className="text-gray-600 hover:text-[#003049]">
-                  +1 (555) 123-4567
+                <a href="tel:+254700232962" className="text-gray-600 hover:text-[#003049]">
+                  0700 232 962
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-[#F97316] flex-shrink-0 mt-1" />
                 <span className="text-gray-600">
-                  San Francisco, CA
+                  Hoima city, Uganda
                 </span>
               </li>
             </ul>
